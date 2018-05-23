@@ -15,10 +15,12 @@ p.intro {
 }
 
 
-.footnote {
+.about {
  font-size: 14px;
  font-style: bold;
+ font-family: cursive;
  color: maroon;
+ text-align: center;
 }
 
 table {
