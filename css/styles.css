@@ -1,0 +1,29 @@
+body {
+  font-family: sans-serif;
+  background-color: #AAAAAA;
+}
+
+p.intro {
+  width: 50%;
+  font-style: italic;
+ }
+
+
+.flashy {
+  color: red;
+  font-style: italic;
+}
+
+
+.footnote {
+ font-size: 14px;
+ font-style: bold;
+ color: maroon;
+}
+
+table {
+  background-color: #333333;
+  text-align: left;
+  padding: 2px;
+  color: white;
+}
